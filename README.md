@@ -1,2 +1,2 @@
-# solid-principles-java
-## A Solid Guide to SOLID Principles
+# java-jdbc-java
+## JDBC Using Model Object and Singleton Class
